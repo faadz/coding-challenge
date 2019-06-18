@@ -1,0 +1,52 @@
+<!doctype html>
+
+
+<html>
+
+    <head>
+    
+    <meta charset="utf-8" />
+    <title>HTML Challenge</title>
+    
+    <p><strong>HTML Challenge</strong></p>
+        
+    <p>Create a form that takes information of a user for dating.</p>
+    </head>
+    
+    <body>
+        <br>
+        <h1><strong>Tindi</strong></h1>
+        <p><strong>Please enter your information below</strong></p>
+        
+        <form>
+ 
+            <strong>Name:</strong>
+            <input type="text">
+            <br>
+            
+            <strong>Surname:</strong>
+            <input type="text">
+            <br>
+            
+            <strong>Gender:</strong>
+            <strong>male:</strong>
+            <input type="radio" name="gender" value="male">
+            <strong>female:</strong>
+            <input type="radio" name="gender" value="female">
+            <br>
+            
+            <strong>age:</strong>
+            <input type="text">
+            <br><br>
+            
+            <input type="submit" value="submit">
+            
+        </form>
+    </body>
+
+
+
+
+
+
+</html>
